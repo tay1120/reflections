@@ -5,3 +5,7 @@ You would want to create a remote repository rather than keeping all your work l
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 You should always pull changes manually as Git does not automatically update the changes made in Git Hub and they should always match with any changes made. This way you have more control and organization within your files and all of the latest updates within both systems.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are copying repositories from one GitHub account to another. Clones are copying repositories from GitHub to local or from local to local. Branches are labels made for different commits when making multiple versions of files.

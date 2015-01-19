@@ -13,3 +13,7 @@ Forks are copying repositories from one GitHub account to another. Clones are co
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 The benefit of having a copy of the last known state of the remote stored locally so that if you are offline for a period of time, you have a copy of your changes saved to access at a later time.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+You can collaborate without using Git or GitHub by using another collaboration tool, a shared file, or a sharing tool such as Dropbox. It would be easier not having to create extra branches or push/pull unecessary files. It would be harder as you would have to manually review files for changes and determine how you should manually merge the files.

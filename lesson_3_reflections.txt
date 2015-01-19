@@ -9,3 +9,7 @@ You should always pull changes manually as Git does not automatically update the
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Forks are copying repositories from one GitHub account to another. Clones are copying repositories from GitHub to local or from local to local. Branches are labels made for different commits when making multiple versions of files.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+The benefit of having a copy of the last known state of the remote stored locally so that if you are offline for a period of time, you have a copy of your changes saved to access at a later time.

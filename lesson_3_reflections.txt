@@ -17,3 +17,7 @@ The benefit of having a copy of the last known state of the remote stored locall
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 You can collaborate without using Git or GitHub by using another collaboration tool, a shared file, or a sharing tool such as Dropbox. It would be easier not having to create extra branches or push/pull unecessary files. It would be harder as you would have to manually review files for changes and determine how you should manually merge the files.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You would want to make changes in a separate branch rather than directly in a master to prevent permanently changing original version. This would make it harder to go back and view or make changes to the original copy or undo the changes made to the master branch. If multiple users are collaborating on the project, this could have negative impact on the other users' files and changes. Making changes to the master ensure that all files steming from this branch include the changes made within the master branch.
